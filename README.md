@@ -1,1 +1,1 @@
-![E-COMMERCE](assets/images/larizza.png)
+![E-COMMERCE](public/images/LARIZZA.png)
