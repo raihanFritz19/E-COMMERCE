@@ -2,7 +2,7 @@
 # Website E-Commerce UMKM Larizza
 Web e-commerce berbasis Laravel untuk membantu UMKM mengelola penjualan secara digital.
 ## Tech Stack
-- Laravel
+- Framework Laravel
 - PHP
 - MySQL
 - JavaScript
