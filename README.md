@@ -31,4 +31,9 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek di perangkat lokal A
 
 1. **Clone Repositori**
    ```bash
-   git clone [https://github.com/raihanFritz19/nama-repo.git](https://github.com/raihanFritz19/nama-repo.git)
+   git clone https://github.com/raihanFritz19/nama-repo.git
+   cd nama-repo
+   composer install
+   php artisan key:generate
+   php artisan migrate
+   php artisan serve
