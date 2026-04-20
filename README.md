@@ -10,7 +10,7 @@ Web e-commerce berbasis Laravel untuk membantu UMKM mengelola penjualan secara d
 ## ⚙️ Cara Menjalankan Proyek (Local Setup)
 Setelah mengunduh atau melakukan `git clone`, lakukan langkah dibawah ini:
 1. Jalankan `composer install`
-2. [cite_start]Salin `.env.example` menjadi `.env` dan sesuaikan konfigurasi database MySQL kamu[cite: 27, 58].
+2. [cite_start]Salin `.env.example` menjadi `.env` dan sesuaikan konfigurasi database MySQL kamu.
 3. Jalankan `php artisan key:generate`
 4. Jalankan `php artisan migrate`
 5. Jalankan `php artisan serve`
