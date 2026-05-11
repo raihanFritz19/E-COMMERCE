@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="public/images/LARIZZA.png" alt="E-COMMERCE" width="800">
-  <h1>🛒 Website E-Commerce UMKM Larizza</h1>
-  <p>Platform e-commerce berbasis web yang dirancang untuk mendigitalisasi operasional penjualan UMKM Toko Larizza menggunakan metode <b>Rapid Application Development (RAD)</b>.</p>
-</div>
-
----
-
 ### 🛠️ Tech Stack & Integrations
 Berikut adalah teknologi yang digunakan dalam pengembangan proyek ini:
 
